@@ -1,0 +1,27 @@
+{
+  "name": "queuetube",
+  "version": "1.0.0",
+  "description": "Custom youtube queuer",
+  "main": "logic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingPao/queueTube.git"
+  },
+  "keywords": [
+    "Youtube"
+  ],
+  "author": "Jakob G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingPao/queueTube/issues"
+  },
+  "homepage": "https://github.com/KingPao/queueTube#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
